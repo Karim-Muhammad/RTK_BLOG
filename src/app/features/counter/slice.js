@@ -1,0 +1,1 @@
+// slicer is a collection of reducer logic and action and initial state for single feature in the app
